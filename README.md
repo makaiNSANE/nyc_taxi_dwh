@@ -1,5 +1,5 @@
 # NYC-Taxi-Data-Warehouse
-A data warehouse built specifically for tracking and cleaning NYC taxi and weather data. This Data warehouse is meant to answer two separate questions:
+A data warehouse built specifically for tracking and cleaning NYC taxi and weather data from October of 2025. This Data warehouse is meant to answer two separate questions:
 ----
 1. How does rain change taxi demand, trip length, and tipping by borough?
 2. What changed after congestion pricing?
